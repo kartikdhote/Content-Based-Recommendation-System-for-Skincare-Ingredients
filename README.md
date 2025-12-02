@@ -1,4 +1,4 @@
-# Cosmetic Ingredient Similarity Mapping & Recommendation System (t‑SNE, Bokeh)
+# Content Based Recommendation System for Skincare Ingredients
 
 Problem Statement:
 Buying skincare is confusing for customers with dry or sensitive skin because ingredient lists are long and technical.
