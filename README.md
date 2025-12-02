@@ -56,8 +56,3 @@ Key Insights / Results
 *The pipeline can be extended into a content‑based recommendation engine: recommend products that are near a user’s preferred (or avoided)
 
 
-## Live Demo
-
-View the interactive HTML report here:  
-https://kartikdhote.github.io/Content-Based-Recommendation-System-for-Skincare-Ingredients/Cosmetic%20Ingredient%20Analysis.htmlproduct in the embedding space.
-
