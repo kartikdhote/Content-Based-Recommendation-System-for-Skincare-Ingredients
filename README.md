@@ -53,5 +53,11 @@ Key Steps in Analysis:
 Key Insights / Results
 *Products that appear close together on the t‑SNE scatter plot have significant overlap in ingredients, indicating similar formulations.
 *The map highlights clusters of moisturizers that likely behave similarly on dry skin (e.g., high in humectants, occlusives, or certain UV filters).
-*The pipeline can be extended into a content‑based recommendation engine: recommend products that are near a user’s preferred (or avoided) product in the embedding space.
+*The pipeline can be extended into a content‑based recommendation engine: recommend products that are near a user’s preferred (or avoided)
+
+
+## Live Demo
+
+View the interactive HTML report here:  
+https://kartikdhote.github.io/Content-Based-Recommendation-System-for-Skincare-Ingredients/Cosmetic%20Ingredient%20Analysis.htmlproduct in the embedding space.
 
